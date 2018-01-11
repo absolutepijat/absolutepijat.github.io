@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+<title>HUBUNGI KAMI : PIJAT PANGGILAN BANDUNG</title>
+<?php
+include_once "template-head.html";
+?>
+<div id="page-content" class="page-content">
+<div id="page-content-scroll">
+<div class="content-fullscreen">
+<iframe class="responsive-image maps no-bottom" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31684.959798866388!2d107.6378385!3d-6.9359412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e871958e9811%3A0x8eea72cb08f0310b!2sABSOLUTE+PIJAT+PANGGILAN+BANDUNG!5e0!3m2!1sid!2sid!4v1515581513545"></iframe>
+<a href="pageapp-map-full.html" class="button button-dark button-xs button-full uppercase bold">Perbesar Maps</a>
+</div>
+<div class="content">
+<div class="container heading-style">
+<h4 class="heading-title">HUBUNGI KAMI</h4>
+<i class="fa fa-envelope heading-icon font-17"></i>
+<div class="line bg-black"></div>
+<p class="heading-subtitle">
+Kami hanya melayani pelanggan wanita, sebab kami hanya menyediakan terapis wanita, Untuk menghindarì fullbooking kami menyarankan agar reservasi lebih awal, anda bisa menghubungi kami lewat panggilan telephhone, pesan sms, atau pesan whatsapp (saran gunakan pesan whatsapp) 
+</p>
+</div>
+
+<!--<div class="container no-bottom">
+<div class="contact-form no-bottom">
+<div class="formSuccessMessageWrap" id="formSuccessMessageWrap">
+<div class="notification-large notification-has-icon notification-green">
+<div class="notification-icon">
+<i class="fa fa-check notification-icon"></i>
+</div>
+<h1 class="uppercase ultrabold">Message sent</h1>
+<p>Form ini hanya untuk pesan whhatsapp</p>
+<a href="#" class="close-notification"><i class="fa fa-times"></i></a>
+</div>
+</div>
+<form action="https://api.whatsapp.com/send?phone=6285222815552" method="post" class="contactForm" id="contactForm">
+<fieldset>
+<div class="formValidationError bg-red-dark" id="contactNameFieldError">
+<p class="center-text uppercase small-text color-white">Name is required!</p>
+</div>
+<div class="formValidationError bg-red-dark" id="contactEmailFieldError">
+<p class="center-text uppercase small-text color-white">Mail address required!</p>
+</div>
+<div class="formValidationError bg-red-dark" id="contactEmailFieldError2">
+<p class="center-text uppercase small-text color-white">Mail address must be valid!</p>
+</div>
+<div class="formValidationError bg-red-dark" id="contactMessageTextareaError">
+<p class="center-text uppercase small-text color-white">Message field is empty!</p>
+</div>
+<div class="formFieldWrap">
+<label class="field-title contactNameField" for="contactNameField">Name:<span>(required)</span>
+</label>
+<input type="text" name="contactNameField" value="" class="contactField requiredField" id="contactNameField" />
+</div>
+<div class="formFieldWrap">
+<label class="field-title contactEmailField" for="contactEmailField">Email: <span>(required)</span>
+</label>
+<input type="text" name="contactEmailField" value="" class="contactField requiredField requiredEmailField" id="contactEmailField" />
+</div>
+<div class="formTextareaWrap">
+<label class="field-title contactMessageTextarea" for="contactMessageTextarea">Message: <span>(required)</span>
+</label>
+<textarea name="contactMessageTextarea" class="contactTextarea requiredField" id="contactMessageTextarea"></textarea>
+</div>
+<div class="formSubmitButtonErrorsWrap contactFormButton">
+<input type="submit" class="buttonWrap button button-blue button-sm button-rounded uppercase ultrabold contactSubmitButton" id="contactSubmitButton" value="Send Message" data-formId="contactForm" />
+</div> 
+</fieldset>
+</form>
+</div>
+</div> -->
+ 
+<div class="decoration"></div>
+<div class="contact-information last-column">
+<div class="container no-bottom">
+<h4>Informasi Kontak</h4>
+<p class="contact-information">
+<strong>Alamat:</strong>
+<br> Jl. Gumuruh Rt 06, Batununggal
+<br> Bandung, Jawa Barat
+<br> 40217, Inddonesia
+</p>
+<p class="contact-information">
+<strong>Customer Service:</strong>
+<br>
+<a href="https://api.whatsapp.com/send?phone=6285222815552"><i class="fa fa-phone-square color-green-dark"></i>+6285222815552 (wa)</a>
+<a href="tel:+6285222815552"><i class="fa fa-phone-square color-green-dark"></i>+6285222815552 (Call)</a>
+<a href="sms:+6285222815552"><i class="fa fa-envelope-square color-blue-dark"></i>+6285222815552 (sms)</a>
+<a href="https://facebook.com/absolutepijat"><i class="fa fa-facebook-square facebook-color"></i>Absolutepijat</a>
+<a href="https://twitter.com/absolutepijat"><i class="fa fa-twitter-square twitter-color"></i>@absolutepijat</a>
+<a href="https://plus.google.com/u/1/10336791552444195594"><i class="fa fa-google-plus-square google-color"></i>Google Plus</a>
+</p>
+</div>
+</div>
+</div>
+<div class="decoration decoration-margins"></div>
+
+<?php
+include_once "template-foot.html";
+?>
